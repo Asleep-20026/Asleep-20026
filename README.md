@@ -84,7 +84,6 @@
   </table>
 </div>
 
-
 <h2>🔥| My contribution streak</h2>
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
@@ -99,32 +98,32 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielarotoma&layout=compact&langs_count=7&theme=default"/></a>
 </div>
 <h2>🛠️ | Languages, Frameworks, and Tools </h2>
-<table>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=python,php,laravel,docker"/></td>
-    </tr>
+<table style="heigh">
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=js,ts,react,angular,html,css,tailwind"/></td>
+    </tr>
+      <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Backend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=python,php,laravel,docker"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Database:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=postgres,mongodb,mysql"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Inteligencia Artificial:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=pytorch"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">DevOps:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=docker,postman"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Inteligencia Artificial:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=pytorch"/></td>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Version Control:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
     </tr>
-   <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Other Tools:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=linux,ubuntu,pytorch,figma"/></td>
     </tr>
