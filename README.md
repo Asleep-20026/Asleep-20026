@@ -30,7 +30,7 @@
     <tr>
       <td align="center">
         <img src="https://thumbs4.imagebam.com/7d/3e/66/MESRJTA_t.png" height="40" alt="1.png"/>
-        <img src="https://media.licdn.com/dms/image/C4E1BAQHjdgsazjDDWg/company-background_10000/0/1585179410477/senati_peru_cover?e=2147483647&v=beta&t=-NV8JF-UP1ri0L4d9L97CBnXkskRd1NE8-soLANkG6k" height="20" alt="Ec.png"/><br>
+        <img src="https://media.licdn.com/dms/image/C4E1BAQHjdgsazjDDWg/company-background_10000/0/1585179410477/senati_peru_cover?e=2147483647&v=beta&t=-NV8JF-UP1ri0L4d9L97CBnXkskRd1NE8-soLANkG6k" height="100" alt="Ec.png"/><br>
         <strong>Senati</strong><br><strong>Cursando</strong><br>
         <img src="https://progress-bar.dev/100/" width="105" alt="progress-bar"/>
       </td>
