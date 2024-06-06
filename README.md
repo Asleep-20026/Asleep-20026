@@ -91,13 +91,15 @@
   </a>
 </p>
 
-h2>⭐ | Github Stats </h2>
+<h2>⭐ | Github Stats </h2>
 
 <div align="center">
-<a href="https://github.com/codediaz">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codediaz&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codediaz&layout=compact&langs_count=7&theme=default"/></a>
+  <a href="https://github.com/asleep-20026">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asleep-20026&show_icons=true&theme=default&include_all_commits=true&count_private=true&token=YOUR_GH_TOKEN"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asleep-20026&layout=compact&langs_count=7&theme=default&token=YOUR_GH_TOKEN"/>
+  </a>
 </div>
+
 
 <h2>🛠️ | Languages, Frameworks, and Tools </h2>
 <table style="heigh">
