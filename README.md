@@ -36,7 +36,7 @@
       </td>
       <td align="center">
        <img src="https://thumbs4.imagebam.com/b4/6b/77/MESRJT1_t.png" height="40" alt="0.png"/>
-       <img src="https://thumbs4.imagebam.com/d6/0d/e4/MESRJUR_t.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8tcDNRzxAnPYTBkEoT0ribhH4A2rvdmzu6Q&s)" width="90" alt="TEC.png"/><br>
+       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8tcDNRzxAnPYTBkEoT0ribhH4A2rvdmzu6Q&s" width="90" alt="TEC.png"/><br>
         <img src="https://thumbs4.imagebam.com/b9/01/da/MESRJ8V_t.png" height="20" alt="Mx.png"/><br>
         <strong>SISE</strong><br><strong>Cursando</strong><br>
         <img src="https://progress-bar.dev/30/" width="100" alt="progress-bar"/>
