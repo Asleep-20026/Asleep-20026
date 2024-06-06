@@ -90,13 +90,15 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=asleep-20026"/>
   </a>
 </p>
-<h2>⭐ | Github Stats </h2>
+
+h2>⭐ | Github Stats </h2>
 
 <div align="center">
-<a href="https://github.com/danielarotoma">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielarotoma&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielarotoma&layout=compact&langs_count=7&theme=default"/></a>
+<a href="https://github.com/codediaz">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codediaz&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codediaz&layout=compact&langs_count=7&theme=default"/></a>
 </div>
+
 <h2>🛠️ | Languages, Frameworks, and Tools </h2>
 <table style="heigh">
     <tr>
