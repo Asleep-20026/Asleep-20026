@@ -56,6 +56,16 @@
       <td align="center">
         <img src="enlace_a_la_imagen_del_logotipo_de_Joyit" height="40" alt="Joyit"/><br>
         <strong>Joyit</strong><br>
+        <br>
+        <strong>Desarrollador de Software Frontend</strong><br>
+        <strong>mar. 2024 - abr. 2024 · 2 meses</strong><br>
+        <strong>En remoto desde Perú</strong><br>
+        <img src="https://progress-bar.dev/100/?title=Completed" width="105" alt="progress-bar"/>
+      </td>
+      <td align="center">
+        <img src="enlace_a_la_imagen_del_logotipo_de_Joyit" height="40" alt="Joyit"/><br>
+        <strong>Joyit</strong><br>
+        <br>
         <strong>Desarrollador de Software AI</strong><br>
         <strong>nov. 2023 - actualidad · 8 meses</strong><br>
         <strong>En remoto desde Lima, Perú</strong><br>
@@ -65,7 +75,8 @@
       <td align="center">
         <img src="enlace_a_la_imagen_del_logotipo_de_PHVA_PERU_SAC" height="40" alt="PHVA PERU SAC"/><br>
         <strong>PHVA PERU SAC</strong><br>
-        <strong>Tec. ingenieria de software</strong><br>
+        <br>
+        <strong>Tec. ingeniería de software</strong><br>
         <strong>sept. 2023 - oct. 2023 · 2 meses</strong><br>
         <strong>Perú · Presencial</strong><br>
         <img src="https://progress-bar.dev/100/?title=Completed" width="100" alt="progress-bar"/>
@@ -73,7 +84,6 @@
     </tr>
   </table>
 </div>
-
 
 <h2>🔥| My contribution streak</h2>
 <p align="center">
