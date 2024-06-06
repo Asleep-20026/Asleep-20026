@@ -117,16 +117,16 @@
         <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=linux,ubuntu,pytorch,figma"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Kubernetes:</td>
-        <td><img height="40" src="URL_IMAGEN_KUBERNETES"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">DevOps:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,postman"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Inteligencia Artificial:</td>
-        <td><img height="40" src="URL_IMAGEN_INTELIGENCIA_ARTIFICIAL"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=pytorch"/></td>
+    </tr>
+   <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Other Tools:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=linux,ubuntu,pytorch,figma"/></td>
     </tr>
 </table>
 <br>
