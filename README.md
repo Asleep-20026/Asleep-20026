@@ -30,8 +30,7 @@
     <tr>
       <td align="center">
         <img src="https://thumbs4.imagebam.com/7d/3e/66/MESRJTA_t.png" height="40" alt="1.png"/>
-        <img src="[[https://thumbs4.imagebam.com/6c/bc/6e/MESRGXI_t.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpe.linkedin.com%2Fcompany%2Fsenati-peru&psig=AOvVaw2zBH58DyX52ew2LPxNetGf&ust=1717724704251000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjt_6vtxYYDFQAAAAAdAAAAABAE)](https://media.licdn.com/dms/image/C4E1BAQHjdgsazjDDWg/company-background_10000/0/1585179410477/senati_peru_cover?e=2147483647&v=beta&t=-NV8JF-UP1ri0L4d9L97CBnXkskRd1NE8-soLANkG6k)" width="90" alt="UPS.png"/><br>
-        <img src="https://thumbs4.imagebam.com/d7/6e/91/MESRJ8U_t.png" height="20" alt="Ec.png"/><br>
+        <img src="https://media.licdn.com/dms/image/C4E1BAQHjdgsazjDDWg/company-background_10000/0/1585179410477/senati_peru_cover?e=2147483647&v=beta&t=-NV8JF-UP1ri0L4d9L97CBnXkskRd1NE8-soLANkG6k" height="20" alt="Ec.png"/><br>
         <strong>Senati</strong><br><strong>Cursando</strong><br>
         <img src="https://progress-bar.dev/100/" width="105" alt="progress-bar"/>
       </td>
