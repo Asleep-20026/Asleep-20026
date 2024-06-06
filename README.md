@@ -46,44 +46,44 @@
   </table>
 </div>
 
-<h2>💼 | Experiencia Laboral</h2>
+<h2>💼 | Work Experience</h2>
 
-<p>Como un profesional comprometido en el campo de la ingeniería, he adquirido experiencia laboral en el desarrollo de software y la inteligencia artificial en diversas empresas. Actualmente, estoy trabajando en:</p>
+<p>As a committed professional in the field of engineering, I have gained work experience in software development and artificial intelligence at various companies:</p>
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="enlace_a_la_imagen_del_logotipo_de_Joyit" height="40" alt="Joyit"/><br>
+        <img src="https://media.licdn.com/dms/image/C4D0BAQEQvx5HtzbIsw/company-logo_200_200/0/1657213157875/joyit_solution_logo?e=1725494400&v=beta&t=Q77_7P-5PRkr0yXlWs8rE7CXt0pV3p5UI3B5wMWo1JY" height="40" alt="Joyit"/><br>
         <strong>Joyit</strong><br>
         <br>
-        <strong>Desarrollador de Software Frontend</strong><br>
-        <strong>mar. 2024 - abr. 2024 · 2 meses</strong><br>
-        <strong>En remoto desde Perú</strong><br>
+        <strong>Frontend Software Developer</strong><br>
+        <strong>Mar. 2024 - Apr. 2024 · 2 months</strong><br>
+        <strong>Remote from Lima</strong><br>
         <img src="https://progress-bar.dev/100/?title=Completed" width="105" alt="progress-bar"/>
       </td>
       <td align="center">
-        <img src="enlace_a_la_imagen_del_logotipo_de_Joyit" height="40" alt="Joyit"/><br>
+        <img src="https://media.licdn.com/dms/image/C4D0BAQEQvx5HtzbIsw/company-logo_200_200/0/1657213157875/joyit_solution_logo?e=1725494400&v=beta&t=Q77_7P-5PRkr0yXlWs8rE7CXt0pV3p5UI3B5wMWo1JY" height="40" alt="Joyit"/><br>
         <strong>Joyit</strong><br>
         <br>
-        <strong>Desarrollador de Software AI</strong><br>
-        <strong>nov. 2023 - actualidad · 8 meses</strong><br>
-        <strong>En remoto desde Lima, Perú</strong><br>
-        <strong>Contrato de prácticas</strong><br>
-        <img src="https://progress-bar.dev/67/?title=Progress" width="105" alt="progress-bar"/>
+        <strong>AI Software Developer</strong><br>
+        <strong>Nov. 2023 - Present · 8 months</strong><br>
+        <strong>Remote from Lima, Peru</strong><br>
+        <img src="https://progress-bar.dev/100/?title=Progress" width="105" alt="progress-bar"/>
       </td>
       <td align="center">
-        <img src="enlace_a_la_imagen_del_logotipo_de_PHVA_PERU_SAC" height="40" alt="PHVA PERU SAC"/><br>
+        <img src="https://media.licdn.com/dms/image/C4E0BAQEP79L7Qwc2zg/company-logo_100_100/0/1674774205904/phva_peru_sac_logo?e=1725494400&v=beta&t=50Uim7cOjlQDK5J_AIdE9Jhb3HdcL2XTn0rbPeNrNyE" height="40" alt="PHVA PERU SAC"/><br>
         <strong>PHVA PERU SAC</strong><br>
         <br>
-        <strong>Tec. ingeniería de software</strong><br>
-        <strong>sept. 2023 - oct. 2023 · 2 meses</strong><br>
-        <strong>Perú · Presencial</strong><br>
+        <strong>Software Engineering Technician</strong><br>
+        <strong>Sept. 2023 - Oct. 2023 · 2 months</strong><br>
+        <strong>Peru · On-site</strong><br>
         <img src="https://progress-bar.dev/100/?title=Completed" width="100" alt="progress-bar"/>
       </td>
     </tr>
   </table>
 </div>
+
 
 <h2>🔥| My contribution streak</h2>
 <p align="center">
