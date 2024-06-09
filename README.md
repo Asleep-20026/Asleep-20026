@@ -109,7 +109,7 @@
     </tr>
       <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=python,php,laravel,docker"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=python,php,laravel"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Database:</td>
@@ -121,7 +121,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,postman"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,postman,kubernetes""/></td>
     </tr>
     <tr>
     <tr>
