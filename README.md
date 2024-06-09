@@ -12,7 +12,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Daniel+Arotoma! ⭐;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Daniel+Arotoma! ;" />
 
 <h2>📖 | About me</h2> 
 🌐 I'm currently studying Software Engineering with a focus on Artificial Intelligence. I am passionate about programming and technology in general. I have diverse experiences in various aspects of software development.
